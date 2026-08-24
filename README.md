@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Mehmet%20Kirimli%20%E2%80%94%20merakl%C4%B1%20ve%20%C3%BCretken%20bir%20yaz%C4%B1l%C4%B1mc%C4%B1;az%20uyur%2C%20%C3%A7ok%20denerim;gece%20yar%C4%B1s%C4%B1%20fikirleri%20sabaha%20kod%20olur;less%20is%20more%2C%20ama%20merak%20s%C4%B1n%C4%B1rs%C4%B1z;bozar%2C%20%C3%B6%C4%9Frenir%2C%20d%C3%BCzeltir%2C%20tekrar%20dener" alt="typing-svg" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding-gif" />
+
 </div>
 
 <br>
@@ -44,23 +48,6 @@ bilinmiyor, henüz keşfedilmedi
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📡 live_stats --fetch
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehmetkirimli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkirimli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=mehmetkirimli&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-<sub><i>kart İngilizce geliyor (bu servis Türkçe desteklemiyor): Total Contributions = toplam katkı, Current Streak = güncel seri (art arda katkı yapılan gün sayısı), Longest Streak = en uzun seri</i></sub>
 
 </div>
 

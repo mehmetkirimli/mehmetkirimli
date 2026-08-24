@@ -50,7 +50,6 @@ guest@mehmetkirimli:~$ exit
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 </div>
 
@@ -60,7 +59,12 @@ guest@mehmetkirimli:~$ exit
 
 ### 📡 live_stats --fetch
 
-<img src="https://streak-stats.demolab.com?user=mehmetkirimli&theme=github-dark-blue&hide_border=true&background=0D1117&locale=tr" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehmetkirimli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkirimli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=mehmetkirimli&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -71,6 +75,7 @@ guest@mehmetkirimli:~$ exit
 ### 📫 contact --send
 
 <a href="https://github.com/mehmetkirimli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- LinkedIn / mail linkini eklemek istersen buraya aynı formatta bir badge daha ekleyebilirsin -->
 
 </div>
 
@@ -80,7 +85,7 @@ guest@mehmetkirimli:~$ exit
 
 ```
 $ status --final
-> "az konuşur, çok denerim."
+> "az konuşur, çok denerim." 
 > teşekkürler, uğradığın için 👋
 ```
 

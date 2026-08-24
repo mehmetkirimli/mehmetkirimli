@@ -1,26 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+whoami;Mehmet+Kirimli+%E2%80%94+meraklı+yazılımcı;%2F%2F+less+is+more%2C+ama+merak+sınırsız;%2F%2F+bozarım%2C+ö%C4%9Frenirim%2C+d%C3%BCzeltirim" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Mehmet%20Kirimli%20%E2%80%94%20merakl%C4%B1%20ve%20%C3%BCretken%20bir%20yaz%C4%B1l%C4%B1mc%C4%B1;az%20uyur%2C%20%C3%A7ok%20denerim;gece%20yar%C4%B1s%C4%B1%20fikirleri%20sabaha%20kod%20olur;less%20is%20more%2C%20ama%20merak%20s%C4%B1n%C4%B1rs%C4%B1z;bozar%2C%20%C3%B6%C4%9Frenir%2C%20d%C3%BCzeltir%2C%20tekrar%20dener" alt="typing-svg" />
 
 </div>
 
+<br>
 
-> "less is more."
-> Karmaşık problemleri sade çözümlerle çözmeyi seviyorum.
-> Genelde önce merak ediyorum, sonra kod yazıyorum.
+```
+whoami
+Mehmet — İstanbul / Kadıköy — OpenToWork
 
-guest@mehmetkirimli:~$ ls -la ./curious_about/
-drwxr-xr-x  blockchain-ve-rpc-dinleme/
-drwxr-xr-x  backend-sistemler/
-drwxr-xr-x  networking-ve-soketler/
-drwxr-xr-x  performans-optimizasyonu/
-drwxr-xr-x  hizli-deneyler/
+mission
+"less is more." Karmaşık problemleri sade çözümlerle çözmeyi seviyorum.
+Genelde önce merak ediyorum, sonra kod yazıyorum.
 
-guest@mehmetkirimli:~$ echo $NEXT_EXPERIMENT
-> "bilinmiyor — henüz keşfedilmedi"
+meraklı olduğum konular
+blockchain ve rpc dinleme, backend sistemler, networking ve soketler,
+performans optimizasyonu, hızlı deneyler
 
-guest@mehmetkirimli:~$ exit
-> process finished with curiosity level: ∞
+araştırma günlüğü
+EtheriumNotifier: Ethereum RPC dinleyip zincir olaylarını bildirime çeviren deney
+CodeCrunch: Java ile CPU, RAM ve disk performans karşılaştırmaları
+tcpJava: TCP soket iletişimi üzerine küçük bir laboratuvar
+StajyerDotNetRehberi: Stajyerler için .NET rehberi, topluluktan destek gördü
+Mayin_tarlasi: Klasikten kaçış yok, Mayın Tarlası kendi yorumumla
+
+sıradaki deney
+bilinmiyor, henüz keşfedilmedi
 ```
 
 <br>
@@ -36,6 +42,7 @@ guest@mehmetkirimli:~$ exit
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
 </div>
 
@@ -69,10 +76,7 @@ guest@mehmetkirimli:~$ exit
 
 <div align="center">
 
-```
-$ status --final
-> "az konuşur, çok denerim." 
-> teşekkürler, uğradığın için 👋
-```
+az konuşur, çok denerim
+teşekkürler, uğradığın için 👋
 
 </div>

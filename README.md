@@ -4,14 +4,7 @@
 
 </div>
 
-<br>
 
-```bash
-guest@mehmetkirimli:~$ whoami
-> Mehmet — İstanbul / Kadıköy
-> durum: OpenToWork 🟢
-
-guest@mehmetkirimli:~$ cat mission.txt
 > "less is more."
 > Karmaşık problemleri sade çözümlerle çözmeyi seviyorum.
 > Genelde önce merak ediyorum, sonra kod yazıyorum.
@@ -22,13 +15,6 @@ drwxr-xr-x  backend-sistemler/
 drwxr-xr-x  networking-ve-soketler/
 drwxr-xr-x  performans-optimizasyonu/
 drwxr-xr-x  hizli-deneyler/
-
-guest@mehmetkirimli:~$ tail -f research.log
-[LOG] EtheriumNotifier    -> Ethereum RPC dinleyip zincir olaylarını bildirime çeviren deney
-[LOG] CodeCrunch          -> Java ile CPU/RAM/Disk performans-optimizasyon karşılaştırmaları
-[LOG] tcpJava             -> TCP soket iletişimi üzerine küçük bir laboratuvar
-[LOG] StajyerDotNetRehberi -> Stajyerler için .NET rehberi (⭐ topluluktan destek gördü)
-[LOG] Mayin_tarlasi       -> Klasikten kaçış yok: Mayın Tarlası kendi yorumumla
 
 guest@mehmetkirimli:~$ echo $NEXT_EXPERIMENT
 > "bilinmiyor — henüz keşfedilmedi"

@@ -12,26 +12,23 @@
 
 ```
 whoami
-Mehmet — İstanbul / Kadıköy — OpenToWork
+Mehmet — İstanbul, meraklı yazılımcı, OpenToWork
 
 mission
-"less is more." Karmaşık problemleri sade çözümlerle çözmeyi seviyorum.
-Genelde önce merak ediyorum, sonra kod yazıyorum.
+az konuş, çok üret
 
 meraklı olduğum konular
-blockchain ve rpc dinleme, backend sistemler, networking ve soketler,
-performans optimizasyonu, paranın izini sürmek (fintech & pos verileri),
-hızlı deneyler
+blockchain, backend, ağlar, performans, paranın izi (fintech & pos), hız
 
 araştırma günlüğü
-bir gece yarısı bir API'yi dinlemeye çalıştım, çalıştı ama nedenini hâlâ tam çözemedim
-basit bir problemi kasten karmaşıklaştırıp sonra tekrar sadeleştirdim
-gereksiz yere bir protokolü sökup nasıl çalıştığını anlamaya çalıştım
-bir veri akışını izlerken saatlerin nasıl geçtiğini fark etmedim
-performans uğruna bir gece boyu anlamsız benchmark'lar koştum
+çalıştı, sebebini sormadım
+bozdum, öğrendim, düzelttim
+protokolü söktüm, merakımı doyurdum
+gece fikir, sabah kod
+hız için gece yarısı deney, pişmanlık yok
 
 sıradaki deney
-bilinmiyor, henüz keşfedilmedi
+bilinmiyor, güzel olan da bu
 ```
 
 <br>

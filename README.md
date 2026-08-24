@@ -11,24 +11,23 @@
 <br>
 
 ```
-whoami
-Mehmet — İstanbul, meraklı yazılımcı, OpenToWork
+
+Mehmet — İstanbul, meraklı yazılımcı
 
 mission
-az konuş, çok üret
+less is more
 
 meraklı olduğum konular
-blockchain, backend, ağlar, performans, paranın izi (fintech & pos), hız
+backend , ağlar , blockchain , performans , paranın izi (fintech & pos), hız , drag-and-drop
 
 araştırma günlüğü
 çalıştı, sebebini sormadım
 bozdum, öğrendim, düzelttim
 protokolü söktüm, merakımı doyurdum
-gece fikir, sabah kod
-hız için gece yarısı deney, pişmanlık yok
+hız için gece yarısı deneyleri
 
 sıradaki deney
-bilinmiyor, güzel olan da bu
+bilinmiyor, bakacaz , güzel olan da bu belki
 ```
 
 <br>
@@ -63,7 +62,7 @@ bilinmiyor, güzel olan da bu
 
 <div align="center">
 
-az konuşur, çok denerim
+az konuşur, çok denerim , beklenti satarım
 teşekkürler, uğradığın için 👋
 
 </div>

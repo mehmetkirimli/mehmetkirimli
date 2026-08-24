@@ -16,14 +16,15 @@ Genelde önce merak ediyorum, sonra kod yazıyorum.
 
 meraklı olduğum konular
 blockchain ve rpc dinleme, backend sistemler, networking ve soketler,
-performans optimizasyonu, hızlı deneyler
+performans optimizasyonu, paranın izini sürmek (fintech & pos verileri),
+hızlı deneyler
 
 araştırma günlüğü
-EtheriumNotifier: Ethereum RPC dinleyip zincir olaylarını bildirime çeviren deney
-CodeCrunch: Java ile CPU, RAM ve disk performans karşılaştırmaları
-tcpJava: TCP soket iletişimi üzerine küçük bir laboratuvar
-StajyerDotNetRehberi: Stajyerler için .NET rehberi, topluluktan destek gördü
-Mayin_tarlasi: Klasikten kaçış yok, Mayın Tarlası kendi yorumumla
+bir gece yarısı bir API'yi dinlemeye çalıştım, çalıştı ama nedenini hâlâ tam çözemedim
+basit bir problemi kasten karmaşıklaştırıp sonra tekrar sadeleştirdim
+gereksiz yere bir protokolü sökup nasıl çalıştığını anlamaya çalıştım
+bir veri akışını izlerken saatlerin nasıl geçtiğini fark etmedim
+performans uğruna bir gece boyu anlamsız benchmark'lar koştum
 
 sıradaki deney
 bilinmiyor, henüz keşfedilmedi
@@ -58,6 +59,8 @@ bilinmiyor, henüz keşfedilmedi
 <br>
 
 <img src="https://streak-stats.demolab.com?user=mehmetkirimli&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+<sub><i>kart İngilizce geliyor (bu servis Türkçe desteklemiyor): Total Contributions = toplam katkı, Current Streak = güncel seri (art arda katkı yapılan gün sayısı), Longest Streak = en uzun seri</i></sub>
 
 </div>
 
